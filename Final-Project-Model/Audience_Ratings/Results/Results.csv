@@ -1,0 +1,19 @@
+,Classifier,MAE,MSE,RMSE
+16,Optimized_model_5,17.343,510.392,22.592
+0,LinearRegression_5,17.343,510.392,22.592
+1,LinearRegression_4,17.58,523.195,22.873
+15,Optimized_model_4,17.58,523.195,22.873
+17,Optimized_model_10,18.907,575.315,23.986
+2,LinearRegression_10,18.907,575.315,23.986
+3,LinearDiscriminant_10,20.151,790.04,28.108
+4,LinearDiscriminant_4,21.929,836.135,28.916
+5,LinearDiscriminant_5,22.381,871.302,29.518
+6,"SVC(gamma=2, C=1)_4",22.683,968.762,31.125
+7,"SVC(gamma=2, C=1)_5",22.984,981.73,31.333
+8,"SVC(gamma=2, C=1)_10",23.405,1003.532,31.679
+9,KNeighborsClassifier_5,26.04,1042.992,32.295
+10,MLPClassifier-adam_10,24.143,1075.667,32.797
+11,KNeighborsClassifier_4,26.23,1117.849,33.434
+12,MLPClassifier-adam_4,24.69,1126.675,33.566
+13,KNeighborsClassifier_10,27.429,1134.111,33.677
+14,MLPClassifier-adam_5,26.587,1265.968,35.58
